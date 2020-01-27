@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIMTimeAndFiles\Release\TCS and ORSIM Initializer.exe.config
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIMTimeAndFiles\Release\TCS and ORSIM Initializer.exe.manifest
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIMTimeAndFiles\Release\TCS and ORSIM Initializer.application
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIMTimeAndFiles\Release\TCS and ORSIM Initializer.exe
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIMTimeAndFiles\Release\TCS and ORSIM Initializer.pdb
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIMTimeAndFiles\ORSIMTimeAndFiles\obj\Release\ORSIMTimeAndFiles.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIMTimeAndFiles\ORSIMTimeAndFiles\obj\Release\ORSIMTimeAndFiles.Form1.resources
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIMTimeAndFiles\ORSIMTimeAndFiles\obj\Release\TCSandORSIMInitializer.Properties.Resources.resources
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIMTimeAndFiles\ORSIMTimeAndFiles\obj\Release\ORSIMTimeAndFiles.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIMTimeAndFiles\ORSIMTimeAndFiles\obj\Release\ORSIMTimeAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIMTimeAndFiles\ORSIMTimeAndFiles\obj\Release\TCS and ORSIM Initializer.exe.manifest
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIMTimeAndFiles\ORSIMTimeAndFiles\obj\Release\TCS and ORSIM Initializer.application
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIMTimeAndFiles\ORSIMTimeAndFiles\obj\Release\TCS and ORSIM Initializer.exe
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIMTimeAndFiles\ORSIMTimeAndFiles\obj\Release\TCS and ORSIM Initializer.pdb

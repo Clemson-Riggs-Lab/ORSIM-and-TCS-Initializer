@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIM and TCS Initializer\ORSIM and TCS Initializer\bin\Debug\ORSIMandTCSInitializer.exe.config
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIM and TCS Initializer\ORSIM and TCS Initializer\bin\Debug\ORSIMandTCSInitializer.exe.manifest
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIM and TCS Initializer\ORSIM and TCS Initializer\bin\Debug\ORSIMandTCSInitializer.application
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIM and TCS Initializer\ORSIM and TCS Initializer\bin\Debug\ORSIMandTCSInitializer.exe
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIM and TCS Initializer\ORSIM and TCS Initializer\bin\Debug\ORSIMandTCSInitializer.pdb
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIM and TCS Initializer\ORSIM and TCS Initializer\obj\Debug\ORSIM and TCS Initializer.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIM and TCS Initializer\ORSIM and TCS Initializer\obj\Debug\ORSIMandTCSInitializer.Form1.resources
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIM and TCS Initializer\ORSIM and TCS Initializer\obj\Debug\ORSIMandTCSInitializer.Properties.Resources.resources
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIM and TCS Initializer\ORSIM and TCS Initializer\obj\Debug\ORSIM and TCS Initializer.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIM and TCS Initializer\ORSIM and TCS Initializer\obj\Debug\ORSIM and TCS Initializer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIM and TCS Initializer\ORSIM and TCS Initializer\obj\Debug\ORSIMandTCSInitializer.exe.manifest
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIM and TCS Initializer\ORSIM and TCS Initializer\obj\Debug\ORSIMandTCSInitializer.application
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIM and TCS Initializer\ORSIM and TCS Initializer\obj\Debug\ORSIMandTCSInitializer.exe
+C:\Users\admin\Desktop\ORSIM and TCS Initializer-20200127T180604Z-001\ORSIM and TCS Initializer\ORSIM and TCS Initializer\ORSIM and TCS Initializer\obj\Debug\ORSIMandTCSInitializer.pdb
